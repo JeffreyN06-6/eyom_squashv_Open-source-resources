@@ -12,6 +12,7 @@ eyom_squashv 賬號內的開源資源
 部分素材引用自維基共享資源 (Wiki Commons)，特別感謝以下創作者：
 * wiki commons / Efilm
 * wiki commons /HKFumi
+* wiki commons /Plop
 
 ## 本人對署名的看法
 雖然採用 CC BY-SA 授權，但本人（創設計者）放棄對本編排部分的署名要求。您可以自由轉載，但主龍請保留對上述原素材作者的標記。
